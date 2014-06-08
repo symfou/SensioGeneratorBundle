@@ -1,5 +1,5 @@
 {
-    "name": "sensio/generator-bundle",
+    "name": "wbi/generator-bundle",
     "description": "This bundle generates code for you",
     "keywords": [],
     "type": "symfony-bundle",
@@ -22,7 +22,7 @@
     "autoload": {
         "psr-0": { "Sensio\\Bundle\\GeneratorBundle": "" }
     },
-    "target-dir": "Sensio/Bundle/GeneratorBundle",
+    "target-dir": "Wbi/Bundle/GeneratorBundle",
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
